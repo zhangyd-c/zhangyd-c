@@ -6,7 +6,10 @@
 
 <p align="center">
     <img src="https://github.com/zhangyd-c/zhangyd-c/blob/master/cover.png?raw=true" style="width: 100%;" title="碧油鸡">
+    Wishing you no bugs in your life.😄
 </p>
+
+
 
 <!--
 **zhangyd-c/zhangyd-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,10 @@
 #### 😄 Break a leg!     
 
 <p align="center">
-    <img src="https://github.com/zhangyd-c/zhangyd-c/blob/master/cover.png?raw=true" style="width: 100%;" title="碧油鸡">
+    <img src="https://github.com/zhangyd-c/zhangyd-c/blob/master/cover.png?raw=true" style="width: 100%;" title="碧油鸡">    
+</p>       
+
+<p align="center">   
     Wishing you no bugs in your life.😄
 </p>
 

@@ -9,7 +9,7 @@
 </p>       
 
 <p align="center">   
-    Wishing you no bugs in your life.😄
+    :tada:Wishing you no :bug: in your life.😄
 </p>
 
 

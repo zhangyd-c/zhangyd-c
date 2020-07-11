@@ -4,7 +4,9 @@
 #### 🔭 I’m currently working on an identity related project right now. Please refer to the [JustAuth](https://github.com/justauth/JustAuth) ![Github Star](https://img.shields.io/github/stars/zhangyd-c/JustAuth.svg?style=social).    
 #### 😄 Break a leg!     
 
-![碧油鸡](https://github.com/zhangyd-c/zhangyd-c/blob/master/cover.png?raw=true)
+<p align="center">
+    <img src="https://github.com/zhangyd-c/zhangyd-c/blob/master/cover.png?raw=true" style="width: 100%;" title="碧油鸡">
+</p>
 
 <!--
 **zhangyd-c/zhangyd-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

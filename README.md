@@ -1,20 +1,25 @@
-## 👋 Hi there, welcome to my open source repository.    
-#### 📫 How to reach me? Please contact me by email: yadong.zhang0415(a)gmail.com    
-#### 👯 If you are looking for cooperation, please contact me by email.    
-#### 🔭 I’m currently working on an identity related project right now. Please refer to the [JustAuth](https://github.com/justauth/JustAuth) ![Github Star](https://img.shields.io/github/stars/zhangyd-c/JustAuth.svg?style=social).    
-#### 😄 Break a leg!     
+## 👋 来啦~~
 
-<p align="center">
-    <img src="https://github.com/zhangyd-c/zhangyd-c/blob/master/cover.png?raw=true" style="width: 100%;" title="碧油鸡">    
-</p>       
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=zhangyd-c&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+## 联系我
+
+![Gitter](https://img.shields.io/gitter/room/yadong.zhang/justauth?style=flat-square&color=ff69b4)
+![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-justauth-brightgreen?style=flat-square&logo=wechat)
+![G-Mail](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-yadong.zhang0415(a)gmail.com-orange?style=flat-square&logo=Minutemailer)
+
+<img alt="码一码" src="https://justauth.wiki/wechat_mp_search.png" style="width: 100px;" title="微信公众号">
 
 <p align="center">   
     :tada:Wishing you no :bug: in your life.😄
 </p>
 
-
-
 <!--
+
+<p align="center">
+    <img src="https://github.com/zhangyd-c/zhangyd-c/blob/master/cover.png?raw=true" style="width: 100px;" title="碧油鸡">    
+</p>
+
 **zhangyd-c/zhangyd-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

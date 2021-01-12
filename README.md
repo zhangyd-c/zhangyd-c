@@ -4,9 +4,10 @@
 
 ## 联系我
 
-[![Gitter](https://img.shields.io/gitter/room/yadong.zhang/justauth?style=flat-square&color=ff69b4)](https://gitter.im/yadong-zhang/justauth)
-![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-justauth-brightgreen?style=flat-square&logo=wechat)
-<a href="mailto:yadong.zhang0415@gmail.com">![G-Mail](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-yadong.zhang0415(a)gmail.com-orange?style=flat-square&logo=Minutemailer)</a>
+
+<a href="https://gitter.im/yadong-zhang/justauth" target="_blank">![Gitter](https://img.shields.io/gitter/room/yadong.zhang/justauth?style=flat-square&color=ff69b4)</a>
+<a>![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-justauth-brightgreen?style=flat-square&logo=wechat)</a>
+<a href="mailto:yadong.zhang0415@gmail.com" target="_blank">![G-Mail](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-yadong.zhang0415(a)gmail.com-orange?style=flat-square&logo=Minutemailer)</a>
 
 <img alt="码一码" src="https://justauth.wiki/wechat_mp_search.png" style="width: 100px;" title="微信公众号">
 

@@ -14,7 +14,7 @@
 <a>![Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-justauth-brightgreen?style=flat-square&logo=wechat)</a>
 <a href="mailto:yadong.zhang0415@gmail.com" target="_blank">![G-Mail](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-yadong.zhang0415(a)gmail.com-orange?style=flat-square&logo=Minutemailer)</a>
 
-<img alt="码一码" src="https://justauth.wiki/wechat_mp_search.png" style="width: 100px;" title="微信公众号">
+<img alt="码一码" src="https://justauth.wiki/wechat_mp_search.png" width="500" title="微信公众号">
 
 <p align="center">   
     :tada:Wishing you no :bug: in your life.😄

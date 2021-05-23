@@ -16,10 +16,6 @@
 
 <img alt="码一码" src="https://justauth.wiki/wechat_mp_search.png" width="500" title="微信公众号">
 
-<p align="center">   
-    :tada:Wishing you no :bug: in your life.😄
-</p>
-
 <!--
 
 <p align="center">
